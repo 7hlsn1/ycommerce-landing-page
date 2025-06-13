@@ -19,6 +19,6 @@ ul .fa-check {
 
 .bg-white.p-6 {
     border: 1px solid #ccc;
-    background: linear-gradient(149deg, rgb(37, 99, 235) 0%, rgb(24, 57, 199) 34%, rgb(0, 64, 255) 100%);
+    background: #2563eb;
     color: white;
 }
